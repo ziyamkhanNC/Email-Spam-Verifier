@@ -242,5 +242,5 @@ Email Spam Verifier
 Machine Learning and NLP Project
 
 ## License
-Apache License 2.0
 
+Add an appropriate open-source license before publicly distributing this project.
